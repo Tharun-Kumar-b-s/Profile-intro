@@ -79,10 +79,10 @@ A real-time emotion detection application integrating OpenCV and TensorFlow to r
 ## <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="24" style="vertical-align: middle;"/> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun-Kumar-b-s&show_icons=true&theme=radical&hide_border=true&title_color=5C3EE8" alt="Tharun's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tharun-Kumar-b-s&show_icons=true&theme=radical&hide_border=true&title_color=5C3EE8" alt="Tharun's GitHub Stats" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-Kumar-b-s&layout=compact&theme=radical&hide_border=true&title_color=5C3EE8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tharun-Kumar-b-s&layout=compact&theme=radical&hide_border=true&title_color=5C3EE8" alt="Top Languages" />
 </div>
 
 ---
